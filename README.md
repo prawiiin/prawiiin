@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/pra_wiiin" target="blank"><img src="https://img.shields.io/twitter/follow/pra_wiiin?logo=twitter&style=for-the-badge" alt="pra_wiiin" /></a> </p>
 
-- 🔭 I’m currently working on [Spark](https://github.com/arjunsjt/flash_app)
 
 - 📫 How to reach me **praveenjohnsasi@gmail.com**
 
