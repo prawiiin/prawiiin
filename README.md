@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Praveen Raj Kanickairaj</h1>
-<h3 align="center">from India and i love playing with data</h3>
+<h3 align="center">from India and I love playing with data</h3>
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/thumbnail/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prawiiin&label=Profile%20views&color=0e75b6&style=flat" alt="prawiiin" /> </p>
